@@ -2,10 +2,16 @@
   text-align:center;
   font-size:4.54545455vw;
   font-family:"Times New Roman",Times,serif;
+  margin-top:0px;
+  margin-bottom:0px;
+  padding-top:0.4em;
+  padding-bottom:0.4em;
 }
 #nav ul {
   margin-left:-3em;
   margin-right:-3em;
+  margin-top:0px;
+  margin-bottom:0px;
 }
 #nav li {
   list-style-type:none;
@@ -42,6 +48,10 @@
 }
 body {
   background-color:rgba(245,245,245,1);
+  margin-top:0px;
+  margin-left:0px;
+  margin-right:0px;
+  margin-bottom:0px;
 }
 #services {
   text-align:center;
