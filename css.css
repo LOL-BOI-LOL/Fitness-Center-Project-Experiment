@@ -1,0 +1,91 @@
+#header {
+  text-align:center;
+  font-size:4.54545455vw;
+  font-family:"Times New Roman",Times,serif;
+}
+#nav ul {
+  margin-left:-3em;
+  margin-right:-3em;
+}
+#nav li {
+  list-style-type:none;
+  text-align:center;
+  float:left;
+  background-color:black;
+}
+#nav a {
+  text-decoration:none;
+  display:block;
+  margin-left:1em;
+  margin-right:1em;
+  font-weight:bold;
+  color:white;
+  font-size:1.85185185vw;
+  padding-top:0.6em;
+  padding-bottom:0.6em;
+  font-family:"Times New Roman",Times,serif;
+}
+#nav a:hover {
+  color:blue;
+} 
+#home {
+  width:7.40740741%;
+}
+#equipment {
+  width:44.4444444%;
+}
+#pricing {
+  width:38.8888889%;
+}
+#staff {
+  width:9.25925926%;
+}
+body {
+  background-color:rgba(245,245,245,1);
+}
+#services {
+  text-align:center;
+  font-size:2vw;
+  font-family:"Times New Roman",Times,serif;
+}
+#priceimage {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:90vw;
+}
+#headerpricingimg {
+  text-align:center;
+  font-family:"Times New Roman",Times,serif;
+  font-size:4vw;
+  margin-top:0em;
+  margin-bottom:0em;
+}
+#benefitsexplaination {
+  text-align:center;
+  font-family:"Times New Roman",Times,serif;
+  font-size:1.5vw;
+  margin-top:0em;
+  margin-bottom:0em;
+}
+#benefitsheader {
+  text-align:center;
+  font-family:"Times New Roman",Times,serif;
+  font-size:3vw;
+  margin-top:0em;
+  margin-bottom:0em;
+  font-weight:bold;
+}
+#equipmentlist {
+  text-align:center;
+  font-family:"Times New Roman",Times,serif;
+  font-size:2.5vw;
+  margin-top:0em;
+  margin-bottom:0em;
+}
+#equipmentimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:15vw;
+}
